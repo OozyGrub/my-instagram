@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 720" style="enable-background:new 0 0 720 720;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#575756;}
+	.st1{fill:none;stroke:#575756;stroke-width:9.9641;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#575756;stroke-width:15.0256;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#575756;stroke-width:12.8791;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#575756;stroke-width:10.7326;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#575756;stroke-width:8.5861;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#575756;stroke-width:6.4396;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#575756;stroke-width:11.1642;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M360.5,41c43.1,0,84.9,8.4,124.2,25.1c38,16.1,72.1,39.1,101.4,68.4c29.3,29.3,52.3,63.4,68.4,101.4
+		c16.6,39.3,25.1,81.1,25.1,124.2s-8.4,84.9-25.1,124.2c-16.1,38-39.1,72.1-68.4,101.4c-29.3,29.3-63.4,52.3-101.4,68.4
+		c-39.3,16.6-81.1,25.1-124.2,25.1s-84.9-8.4-124.2-25.1c-38-16.1-72.1-39.1-101.4-68.4c-29.3-29.3-52.3-63.4-68.4-101.4
+		C49.9,444.9,41.5,403.1,41.5,360s8.4-84.9,25.1-124.2c16.1-38,39.1-72.1,68.4-101.4c29.3-29.3,63.4-52.3,101.4-68.4
+		C275.7,49.4,317.5,41,360.5,41 M360.5,17.6C171.5,17.6,18.2,170.9,18.2,360s153.3,342.4,342.4,342.4S702.9,549.1,702.9,360
+		S549.6,17.6,360.5,17.6L360.5,17.6z"/>
+</g>
+<path class="st1" d="M554.2,264.7"/>
+<line class="st2" x1="262.8" y1="454" x2="37.3" y2="454"/>
+<line class="st3" x1="225.4" y1="496.4" x2="59" y2="496.4"/>
+<line class="st4" x1="255.3" y1="538.7" x2="78.3" y2="538.7"/>
+<line class="st5" x1="499.4" y1="577.4" x2="103.3" y2="577.4"/>
+<line class="st6" x1="505.6" y1="618.5" x2="143.2" y2="618.5"/>
+<polyline class="st2" points="317.6,360 145.9,293.5 23.5,357.9 "/>
+<g>
+	<polyline class="st7" points="480.5,382.8 522.5,380.1 546.1,322.4 527.7,301.4 488.4,327.6 456.9,327.6 483.1,277.8 491,212.1 
+		449,183.3 464.7,217.4 454.2,267.3 417.5,293.5 386,290.9 354.5,325 317.7,359.1 262.6,456.3 220.6,495.6 265.2,550.8 307.2,540.3 
+		351.9,566.5 435.9,514 498.9,558.6 506.7,647.9 	"/>
+	<polyline class="st7" points="659.7,209.5 554.7,264.6 531.1,301.4 	"/>
+</g>
+<g>
+	<line class="st2" x1="311.9" y1="84.2" x2="311.9" y2="356.7"/>
+	<line class="st2" x1="310" y1="234.9" x2="379.9" y2="209.8"/>
+	<line class="st2" x1="310" y1="286.3" x2="397" y2="252.7"/>
+	<line class="st2" x1="310" y1="183.5" x2="362.7" y2="162.5"/>
+	<line class="st2" x1="311.9" y1="134" x2="345.5" y2="122.2"/>
+	<line class="st2" x1="313.3" y1="234.9" x2="243.4" y2="209.8"/>
+	<line class="st2" x1="313.3" y1="286.3" x2="226.2" y2="252.7"/>
+	<line class="st2" x1="313.3" y1="183.5" x2="260.6" y2="162.5"/>
+	<line class="st2" x1="311.3" y1="134" x2="277.7" y2="122.2"/>
+</g>
+</svg>
